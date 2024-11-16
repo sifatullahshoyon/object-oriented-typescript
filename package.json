@@ -1,0 +1,12 @@
+{
+  "name": "module-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only src/3.9.ts"
+  },
+  "devDependencies": {
+    "tsconfig.json": "^1.0.11"
+  }
+}
